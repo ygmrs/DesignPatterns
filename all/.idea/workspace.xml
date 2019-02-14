@@ -2,76 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f39d56e3-8f8a-4a08-ab98-b57593f049a2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../Singleton/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/Singleton.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/abstractFactory/animal/AbstractFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/abstractFactory/animal/AnimalFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/abstractFactory/animal/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/abstractFactory/animal/ColorFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/abstractFactory/animal/FactoryProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/abstractFactory/animal/animalFamily/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/abstractFactory/animal/animalFamily/Bear.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/abstractFactory/animal/animalFamily/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/abstractFactory/animal/animalFamily/Duck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/abstractFactory/animal/colorFamily/Black.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/abstractFactory/animal/colorFamily/Brown.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/abstractFactory/animal/colorFamily/Color.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/abstractFactory/animal/colorFamily/White.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/abstractFactory/animal/resource/classDiagram.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/abstractFactory/implementation/AbstractFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/abstractFactory/implementation/AbstractFactoryPatternDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/abstractFactory/implementation/FactoryProducer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/abstractFactory/implementation/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/abstractFactory/implementation/RoundedRectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/abstractFactory/implementation/RoundedShapeFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/abstractFactory/implementation/RoundedSquare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/abstractFactory/implementation/Shape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/abstractFactory/implementation/ShapeFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/abstractFactory/implementation/Square.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/abstractFactory/implementation/resource/abstractFactory.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/decorator/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/decorator/DecoratorPatternDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/decorator/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/decorator/RedShapeDecorator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/decorator/Shape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/decorator/ShapeDecorator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/decorator/resource/classDiagram.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/factory/animal/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/factory/animal/DogFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/factory/animal/DogFactoryDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/factory/animal/Husky.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/factory/animal/Poodle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/factory/animal/Rottweiler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/factory/implementation/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/factory/implementation/FactoryPatternDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/factory/implementation/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/factory/implementation/Shape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/factory/implementation/ShapeFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/factory/implementation/Square.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/factory/implementation/resource/factory.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/factory/reader/DecodedImage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/factory/reader/FactoryMethodDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/factory/reader/GifReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/factory/reader/ImageReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/factory/reader/JpegReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/singleton/classic/ClassicSingleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/singleton/classic/SingletonTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/singleton/demo/SingleObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/singleton/demo/SingletonDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/singleton/eagerly/EagerSingleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/singleton/eagerlyStaticBlock/EagerStaticBlockSingleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/singleton/enumSingleton/EnumSingleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/singleton/enumSingleton/EnumSingletonExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/singleton/lazily/LazySingleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/singleton/lazilyDoubleCheck/LazyDoubleCheckedLockingSingleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/singleton/singleSingleton/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/singleton/singleSingleton/Singleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton/src/com/company/singleton/threadSafeSingleton/Singleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/abstractFactory/animal/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/abstractFactory/animal/AbstractFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/abstractFactory/animal/AnimalFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/abstractFactory/animal/AnimalFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/abstractFactory/animal/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/abstractFactory/animal/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/abstractFactory/animal/ColorFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/abstractFactory/animal/ColorFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/abstractFactory/animal/FactoryProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/abstractFactory/animal/FactoryProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/abstractFactory/animal/animalFamily/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/abstractFactory/animal/animalFamily/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/abstractFactory/animal/animalFamily/Bear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/abstractFactory/animal/animalFamily/Bear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/abstractFactory/animal/animalFamily/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/abstractFactory/animal/animalFamily/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/abstractFactory/animal/animalFamily/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/abstractFactory/animal/animalFamily/Duck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/abstractFactory/animal/colorFamily/Black.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/abstractFactory/animal/colorFamily/Black.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/abstractFactory/animal/colorFamily/Brown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/abstractFactory/animal/colorFamily/Brown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/abstractFactory/animal/colorFamily/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/abstractFactory/animal/colorFamily/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/abstractFactory/animal/colorFamily/White.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/abstractFactory/animal/colorFamily/White.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/abstractFactory/animal/resource/classDiagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/abstractFactory/animal/resource/classDiagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/abstractFactory/implementation/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/abstractFactory/implementation/AbstractFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/abstractFactory/implementation/AbstractFactoryPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/abstractFactory/implementation/AbstractFactoryPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/abstractFactory/implementation/FactoryProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/abstractFactory/implementation/FactoryProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/abstractFactory/implementation/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/abstractFactory/implementation/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/abstractFactory/implementation/RoundedRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/abstractFactory/implementation/RoundedRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/abstractFactory/implementation/RoundedShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/abstractFactory/implementation/RoundedShapeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/abstractFactory/implementation/RoundedSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/abstractFactory/implementation/RoundedSquare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/abstractFactory/implementation/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/abstractFactory/implementation/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/abstractFactory/implementation/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/abstractFactory/implementation/ShapeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/abstractFactory/implementation/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/abstractFactory/implementation/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/abstractFactory/implementation/resource/abstractFactory.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/abstractFactory/implementation/resource/abstractFactory.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/decorator/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/decorator/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/decorator/DecoratorPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/decorator/DecoratorPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/decorator/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/decorator/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/decorator/RedShapeDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/decorator/RedShapeDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/decorator/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/decorator/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/decorator/ShapeDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/decorator/ShapeDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/decorator/resource/classDiagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/decorator/resource/classDiagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/factory/animal/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/factory/animal/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/factory/animal/DogFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/factory/animal/DogFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/factory/animal/DogFactoryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/factory/animal/DogFactoryDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/factory/animal/Husky.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/factory/animal/Husky.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/factory/animal/Poodle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/factory/animal/Poodle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/factory/animal/Rottweiler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/factory/animal/Rottweiler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/factory/implementation/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/factory/implementation/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/factory/implementation/FactoryPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/factory/implementation/FactoryPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/factory/implementation/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/factory/implementation/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/factory/implementation/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/factory/implementation/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/factory/implementation/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/factory/implementation/ShapeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/factory/implementation/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/factory/implementation/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/factory/implementation/resource/factory.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/factory/implementation/resource/factory.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/factory/reader/DecodedImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/factory/reader/DecodedImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/factory/reader/FactoryMethodDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/factory/reader/FactoryMethodDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/factory/reader/GifReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/factory/reader/GifReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/factory/reader/ImageReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/factory/reader/ImageReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/factory/reader/JpegReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/factory/reader/JpegReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/singleton/classic/ClassicSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/singleton/classic/ClassicSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/singleton/classic/SingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/singleton/classic/SingletonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/singleton/demo/SingleObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/singleton/demo/SingleObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/singleton/demo/SingletonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/singleton/demo/SingletonDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/singleton/eagerly/EagerSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/singleton/eagerly/EagerSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/singleton/eagerlyStaticBlock/EagerStaticBlockSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/singleton/eagerlyStaticBlock/EagerStaticBlockSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/singleton/enumSingleton/EnumSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/singleton/enumSingleton/EnumSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/singleton/enumSingleton/EnumSingletonExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/singleton/enumSingleton/EnumSingletonExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/singleton/lazily/LazySingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/singleton/lazily/LazySingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/singleton/lazilyDoubleCheck/LazyDoubleCheckedLockingSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/singleton/lazilyDoubleCheck/LazyDoubleCheckedLockingSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/singleton/singleSingleton/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/singleton/singleSingleton/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/singleton/singleSingleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/singleton/singleSingleton/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/singleton/threadSafeSingleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/creationalDesignPatterns/singleton/threadSafeSingleton/Singleton.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,56 +76,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Shape.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/factory/implementation/Shape.java">
+      <file leaf-file-name="all.iml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/all.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FactoryPatternDemo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/factory/implementation/FactoryPatternDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="60" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ShapeFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/factory/implementation/ShapeFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Shape.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/implementation/Shape.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Rectangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/implementation/Rectangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Square.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/implementation/Square.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
+            <state relative-caret-position="234">
+              <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -235,10 +183,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -383,6 +331,7 @@
       <workItem from="1550128265700" duration="41000" />
       <workItem from="1550128353222" duration="64000" />
       <workItem from="1550128560689" duration="8000" />
+      <workItem from="1550129304069" duration="35000" />
     </task>
     <task id="LOCAL-00001" summary="YS | Singleton Pattern from Creational Design Patterns">
       <created>1549550521407</created>
@@ -438,7 +387,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14408000" />
+    <option name="totallyTimeSpent" value="14443000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="169" y="200" width="1677" height="810" extended-state="0" />
@@ -451,8 +400,8 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32832617" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32832617" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -462,8 +411,8 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.23931624" />
@@ -534,360 +483,60 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/factory/implementation/FactoryPatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="60" lean-forward="true" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/singleton/enumSingleton/EnumSingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/factory/implementation/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/factory/animal/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/factory/animal/Husky.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/factory/animal/Poodle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/factory/animal/Rottweiler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/factory/animal/DogFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/factory/reader/ImageReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/factory/reader/DecodedImage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="36" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/factory/animal/DogFactoryDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/factory/reader/GifReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/factory/reader/JpegReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/factory/reader/FactoryMethodDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/implementation/RoundedRectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/implementation/RoundedSquare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/implementation/ShapeFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/animal/colorFamily/Color.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/animal/colorFamily/White.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/animal/colorFamily/Brown.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/animal/colorFamily/Black.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/animal/ColorFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/animal/FactoryProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/animal/animalFamily/Duck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/animal/animalFamily/Bear.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/animal/animalFamily/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/animal/animalFamily/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/animal/AbstractFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/animal/AnimalFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="59" selection-start-line="4" selection-start-column="59" selection-end-line="4" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/animal/Client.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/singleton/enumSingleton/EnumSingleton.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/factory/implementation/Rectangle.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/factory/animal/Dog.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/factory/animal/Husky.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/factory/animal/Poodle.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/factory/animal/Rottweiler.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/factory/animal/DogFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/factory/reader/ImageReader.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/factory/reader/DecodedImage.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/factory/animal/DogFactoryDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/factory/reader/GifReader.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/factory/reader/JpegReader.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/factory/reader/FactoryMethodDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/implementation/RoundedRectangle.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/implementation/RoundedSquare.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/implementation/ShapeFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/animal/colorFamily/Color.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/animal/colorFamily/White.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/animal/colorFamily/Brown.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/animal/colorFamily/Black.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/animal/ColorFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/animal/FactoryProvider.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/animal/animalFamily/Duck.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/animal/animalFamily/Bear.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/animal/animalFamily/Dog.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/animal/animalFamily/Animal.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/animal/AbstractFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/animal/AnimalFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/animal/Client.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/decorator/Circle.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/decorator/Rectangle.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/decorator/RedShapeDecorator.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/decorator/DecoratorPatternDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/decorator/ShapeDecorator.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/decorator/Shape.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/singleton/demo/SingleObject.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/singleton/threadSafeSingleton/Singleton.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/singleton/classic/ClassicSingleton.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/factory/implementation/Circle.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/factory/implementation/Square.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/implementation/Square.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/implementation/Rectangle.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/implementation/AbstractFactoryPatternDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/implementation/FactoryProducer.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/implementation/RoundedShapeFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/implementation/AbstractFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/implementation/Shape.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/factory/implementation/Shape.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/factory/implementation/ShapeFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/factory/implementation/FactoryPatternDemo.java" />
+    <entry file="file://$PROJECT_DIR$/all.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/decorator/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/decorator/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/decorator/RedShapeDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/decorator/DecoratorPatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/decorator/ShapeDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/decorator/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/singleton/demo/SingleObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/singleton/threadSafeSingleton/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/singleton/classic/ClassicSingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/factory/implementation/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/factory/implementation/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/implementation/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/implementation/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/implementation/AbstractFactoryPatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/implementation/FactoryProducer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/implementation/RoundedShapeFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="39" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/implementation/AbstractFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="37" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/abstractFactory/implementation/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/factory/implementation/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/factory/implementation/ShapeFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/factory/implementation/FactoryPatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="60" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
+          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
         </state>
       </provider>
     </entry>
