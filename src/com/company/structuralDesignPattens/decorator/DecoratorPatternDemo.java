@@ -1,4 +1,4 @@
-package com.company.creationalDesignPatterns.decorator;
+package com.company.structuralDesignPattens.decorator;
 
 public class DecoratorPatternDemo {
 
